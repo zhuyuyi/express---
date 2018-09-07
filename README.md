@@ -1,6 +1,8 @@
 # express-后端部分
 #这里是项目后端部分，线上网站地址目前为http://212.64.17.157/home
 
+#前端文件地址https://github.com/zjzswqzyy/vue-SPA
+
 # 如何运行
 
 在当前目录cmd命令行 npm install 安装依赖
